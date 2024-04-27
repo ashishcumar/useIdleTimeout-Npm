@@ -1,0 +1,67 @@
+{
+  "name": "use-idle-timeout",
+  "version": "0.0.1",
+  "description": "The useIdleTimeout npm package offers a convenient hook for managing idle timeouts in React components. With it, developers can effortlessly monitor user activity and execute predefined actions after a designated period of inactivity. Whether it's displaying a prompt for continued interaction, logging the user out of the application, or implementing custom behaviors, this package simplifies the process, enhancing user experience and application functionality.",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "type": "module",
+  "scripts": {
+    "build": "npx rollup -c && git add . && git commit -m 'updated build' && git push"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ashishcumar/useIdleTimeout-Npm.git"
+  },
+  "keywords": [
+    "React",
+    "Hooks",
+    "Logout",
+    "React",
+    "idle",
+    "timeout",
+    "React",
+    "inactivity",
+    "handler",
+    "Idle",
+    "timeout",
+    "hook",
+    "React",
+    "user",
+    "activity",
+    "monitor",
+    "User",
+    "inactivity",
+    "timeout",
+    "React",
+    "timeout",
+    "management",
+    "React",
+    "user",
+    "engagement",
+    "Idle",
+    "timeout",
+    "prompt",
+    "React",
+    "session",
+    "management",
+    "User",
+    "interaction",
+    "timeout"
+  ],
+  "author": "Ashish",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ashishcumar/useIdleTimeout-Npm/issues"
+  },
+  "homepage": "https://github.com/ashishcumar/useIdleTimeout-Npm#readme",
+  "devDependencies": {
+    "@rollup/plugin-babel": "^6.0.4",
+    "@rollup/plugin-typescript": "^11.1.6",
+    "@types/node": "^20.12.7",
+    "@types/react": "^18.3.1",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "rollup": "^4.16.4",
+    "tslib": "^2.6.2"
+  }
+}
