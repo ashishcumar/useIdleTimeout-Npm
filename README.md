@@ -37,6 +37,8 @@ import useIdleTimeout from 'use-idle-timeout';
 const App = () => {
   const [modalVisible, setModalVisible] = useState(false);
 
+
+  // useIdleTimeout(time,callBack)
   useIdleTimeout(30000, () => {
     setModalVisible(true);
   });
