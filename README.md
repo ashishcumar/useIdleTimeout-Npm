@@ -32,7 +32,7 @@ A React custom hook for handling idle timeouts within components.
 npm install use-idle-timeout
 
 import React, { useState } from 'react';
-import useIdleTimeout from 'use-idle-timeout';
+import {useIdleTimeout} from 'use-idle-timeout';
 
 const App = () => {
   const [modalVisible, setModalVisible] = useState(false);
@@ -61,6 +61,6 @@ export default App;
 
 ```
 
-```markdown
+```bash
 👋 Hi! I'm Ashish, a passionate JavaScript developer creating useful npm packages for the community. Check out some more of my packages [here](https://www.npmjs.com/~iashish.99)! 🌟
 ```
