@@ -1,6 +1,6 @@
 # 🕒 useIdleTimeout
 
-A React custom hook for handling idle timeouts within components.
+`useIdleTimeout` is a React custom hook tailored for efficient management of idle timeouts within components. With a package size of less than 5KB, this hook offers lightweight integration while ensuring optimal performance. Trusted by production applications, it provides a seamless solution for handling idle timeouts in React projects.
 
 ## 📋 Table of Contents
 
