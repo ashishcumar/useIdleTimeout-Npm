@@ -1,6 +1,6 @@
 {
   "name": "use-idle-timeout",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "description": "The useIdleTimeout npm package offers a convenient hook for managing idle timeouts in React components. With it, developers can effortlessly monitor user activity and execute predefined actions after a designated period of inactivity. Whether it's displaying a prompt for continued interaction, logging the user out of the application, or implementing custom behaviors, this package simplifies the process, enhancing user experience and application functionality.",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",

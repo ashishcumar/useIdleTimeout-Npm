@@ -60,8 +60,6 @@ const App = () => {
 export default App;
 
 ```
+## Check Out My Other Packages
 
-```bash
-👋 Hi! I'm Ashish, a passionate JavaScript developer creating useful npm packages for the community.
-   Check out some more of my packages [here](https://www.npmjs.com/~iashish.99)! 🌟
-```
+Explore more useful packages by visiting [my npm profile](https://www.npmjs.com/~iashish.99). Made with ❤️ by Ashish
